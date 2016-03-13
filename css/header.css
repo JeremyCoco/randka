@@ -1,0 +1,28 @@
+.caps{
+    font-variant: small-caps;
+}
+
+@font-face {
+    font-family: calibri;
+    src: url(fonts/Calibri.ttf);
+}
+
+.av{
+    margin-top: 18px;
+}
+
+.btn-circle {
+    border-radius: 24px;
+    border-color: #1E90FF;
+    border-width: 2px;
+    background: none;
+}
+
+.fontAC{
+    font-family: 'Quicksand', sans-serif;
+}
+
+hr {
+    width: 90%;
+    border-top: 1px solid #C1272D;
+}
